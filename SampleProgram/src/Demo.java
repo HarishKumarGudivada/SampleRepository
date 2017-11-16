@@ -6,8 +6,11 @@ public class Demo {
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 		System.out.println("additional");
 		
+=======
+>>>>>>> 8571595... kkkk
 		System.out.println("Good Morning Boss");
 		for (int i = 0; i < 10; i++) {
 			System.out.println(i);
