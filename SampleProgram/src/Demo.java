@@ -4,6 +4,7 @@ public class Demo {
 	
 	public static void main(String[] args) {
 <<<<<<< HEAD
+<<<<<<< HEAD
 		System.out.println("additional");
 		
 		System.out.println("Good Morning Boss");
@@ -16,5 +17,8 @@ public class Demo {
 			System.out.println(i);
 		}
 >>>>>>> f0d38ba... loop
+=======
+		System.out.println("say Hi");
+>>>>>>> 48c5c96... hi
 	}
 }
