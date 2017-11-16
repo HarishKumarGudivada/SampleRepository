@@ -5,6 +5,7 @@ public class Demo {
 	public static void main(String[] args) {
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 		System.out.println("additional");
 		
 		System.out.println("Good Morning Boss");
@@ -20,5 +21,8 @@ public class Demo {
 =======
 		System.out.println("say Hi");
 >>>>>>> 48c5c96... hi
+=======
+		System.out.println(" Hi merge is Tested");
+>>>>>>> f34f0d6... merge test
 	}
 }
