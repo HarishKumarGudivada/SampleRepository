@@ -18,6 +18,7 @@ public class Demo {
 		for (int i = 0; i < 10; i++) {
 			System.out.println(i);
 		}
+<<<<<<< HEAD
 
 =======
 		for (int i = 0; i <10; i++) {
@@ -31,4 +32,9 @@ public class Demo {
 		System.out.println(" Hi merge is Tested");
 >>>>>>> f34f0d6... merge test
 	}
+=======
+		
+		System.out.println();
+}
+>>>>>>> 4a97677... Commited from terminal
 }
